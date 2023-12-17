@@ -17,4 +17,9 @@ public class Hello {
 		
 		System.out.println("Hello");
 	}
+	
+	void method2() {
+		System.out.println("Hello2");
+		
+	}
 }
